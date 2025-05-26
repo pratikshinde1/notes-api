@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to our Notes API p! This application is a robust solution for managing your notes, built using the MERN technology stack—MongoDB, Express.js, React, and Node.js. It's designed to help users perform CRUD (Create, Read, Update, Delete) operations seamlessly and supports a wide range of devices thanks to its responsive design.
+Welcome to our Notes API ! This application is a robust solution for managing your notes, built using the MERN technology stack—MongoDB, Express.js, React, and Node.js. It's designed to help users perform CRUD (Create, Read, Update, Delete) operations seamlessly and supports a wide range of devices thanks to its responsive design.
 
 ## Features
 
